@@ -1,0 +1,5 @@
+html[dark], [dark] {
+    --yt-spec-raised-background: #0e0e0e !important;
+    --yt-spec-base-background: #000000 !important;
+    --yt-spec-menu-background: #0e0e0e !important;
+}
